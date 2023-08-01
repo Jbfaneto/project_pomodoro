@@ -58,3 +58,13 @@ body{
   transition: background-color 300ms ease-in-out;
   margin: 20px auto;
 }
+
+.working .pomodoro button{
+  background: #ef5d50;
+  color: #fff;
+}
+
+.pomodoro .details{
+margin:20px 0;
+text-align: center;
+}
